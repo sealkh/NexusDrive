@@ -24,16 +24,15 @@ git clone https://github.com/sealkh/NexusDrive.git
 cd NexusDrive
 chmod +x NexusDrive.sh
 ./NexusDrive.sh
-```
+```cmd
 ## 📂 Project Structure
-<pre>```
+```
 NexusDrive/
 ├── NexusDrive.cmd
 ├── NexusDrive.sh
 ├── main.py
 └── ...
 ```
-</pre>
 ## 🤔 Why This Exists
 To document my Python learning process
 Experiment freely with code

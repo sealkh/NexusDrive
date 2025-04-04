@@ -27,14 +27,12 @@ chmod +x NexusDrive.sh
 ./NexusDrive.sh
 ```
 ## 📂 Project Structure
-```cmd
-NexusDrive/
-├── config.py
-├── NexusDrive.cmd
-├── NexusDrive.sh
-├── NexusDrive.py
+NexusDrive/  
+├── config.py  
+├── NexusDrive.cmd  
+├── NexusDrive.sh  
+├── NexusDrive.py  
 └── ...
-```
 ## 🤔 Why This Exists
 <pre>
 To document my Python learning process

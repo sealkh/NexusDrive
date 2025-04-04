@@ -25,8 +25,9 @@ cd NexusDrive
 chmod +x NexusDrive.sh
 ./NexusDrive.sh
 ```
-<pre>## 📂 Project Structure
-```NexusDrive/
+## 📂 Project Structure
+<pre>```
+NexusDrive/
 ├── NexusDrive.cmd
 ├── NexusDrive.sh
 ├── main.py

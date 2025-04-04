@@ -24,9 +24,9 @@ git clone https://github.com/sealkh/NexusDrive.git
 cd NexusDrive
 chmod +x NexusDrive.sh
 ./NexusDrive.sh
-```cmd
-## 📂 Project Structure
 ```
+## 📂 Project Structure
+```cmd
 NexusDrive/
 ├── NexusDrive.cmd
 ├── NexusDrive.sh

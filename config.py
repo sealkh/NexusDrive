@@ -1,10 +1,10 @@
 from pathlib import Path
 
-# Базовые настройки
+# Main settings
 DEBUG_MODE = True
 RESOURCES_DIR = Path(__file__).parent
 
-# Настройки окна
+# Window options
 WINDOW = {
     'width': 1280,
     'height': 720,
@@ -13,14 +13,14 @@ WINDOW = {
     'vsync': False
 }
 
-# Шейдеры
+# Shaders config
 SHADERS = {
     'vertex': RESOURCES_DIR / 'shaders' / 'vertex.glsl',
     'fragment': RESOURCES_DIR / 'shaders' / 'fragment.glsl',
     'uniforms': ['u_res']  #, 'u_voxels']
 }
 
-# Воксели
+# Voxels config
 VOXELS = {
     'grid_size': 64,
     'sphere_radius': 30,

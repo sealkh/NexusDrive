@@ -25,7 +25,7 @@ pip install pipreqs --quiet --disable-pip-version-check
 
 :: Generate requirements.txt
 echo Analyzing project dependencies...
-pipreqs ./ --recursive --force --mode gt
+pipreqs ./ --recursive --force --encoding utf-8 --mode gt
 
 :: Install dependencies
 echo Installing required packages...

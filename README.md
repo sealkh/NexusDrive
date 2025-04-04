@@ -19,7 +19,7 @@ git clone https://github.com/sealkh/NexusDrive.git
 cd NexusDrive
 NexusDrive.cmd
 ```
-### Linux
+### Linux/macOS
 ```bash
 git clone https://github.com/sealkh/NexusDrive.git
 cd NexusDrive

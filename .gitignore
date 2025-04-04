@@ -1,0 +1,42 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# IDE/Editor configs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and test outputs
+*.log
+*.sqlite3
+
+# Dependency files (except requirements.txt)
+*.egg-info/
+/dist/
+/build/
+
+# Environment/config files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.secrets
+
+# Jupyter Notebook cache
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Pytest cache
+.pytest_cache/

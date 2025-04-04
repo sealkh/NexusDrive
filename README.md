@@ -28,15 +28,18 @@ chmod +x NexusDrive.sh
 ## 📂 Project Structure
 ```cmd
 NexusDrive/
+├── config.py
 ├── NexusDrive.cmd
 ├── NexusDrive.sh
-├── main.py
+├── NexusDrive.py
 └── ...
 ```
 ## 🤔 Why This Exists
+<pre>
 To document my Python learning process
 Experiment freely with code
 Build a portfolio of small projects
+</pre>
 ## 📜 License
 MIT - Do whatever the fuck you want with this code.
 ## ⚠️ No handholding: This is active learning in progress.

@@ -12,7 +12,7 @@
 - Trial-and-error moments (lots of them!)
 
 ## 🚀 How to Run
-# Windows
+### Windows
 ```cmd
 git clone https://github.com/sealkh/NexusDrive.git
 cd NexusDrive

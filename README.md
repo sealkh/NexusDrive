@@ -17,18 +17,21 @@
 git clone https://github.com/sealkh/NexusDrive.git
 cd NexusDrive
 NexusDrive.cmd
+
 ### Linux
 ```bash
 git clone https://github.com/sealkh/NexusDrive.git
 cd NexusDrive
 chmod +x NexusDrive.sh
 ./NexusDrive.sh
+
 📂 Project Structure
 NexusDrive/
 ├── NexusDrive.cmd
 ├── NexusDrive.sh
 ├── main.py
 └── ...
+
 🤔 Why This Exists
 To document my Python learning process
 

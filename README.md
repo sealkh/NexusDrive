@@ -16,13 +16,15 @@
 ```cmd
 git clone https://github.com/sealkh/NexusDrive.git
 cd NexusDrive
-NexusDrive.cmd```
+NexusDrive.cmd
+```
 ### Linux
 ```bash
 git clone https://github.com/sealkh/NexusDrive.git
 cd NexusDrive
 chmod +x NexusDrive.sh
-./NexusDrive.sh```
+./NexusDrive.sh
+```
 📂 Project Structure
 NexusDrive/
 ├── NexusDrive.cmd
